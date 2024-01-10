@@ -1,0 +1,117 @@
+.main {
+    background-color: #f6d050;
+    width: 1800px;
+    height: 900px;
+}
+
+.section {
+    background-color: #ffffff;
+    width: 370px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 15px 15px 1px black;
+    font-family: 'Figtree', sans-serif;
+
+
+
+}
+
+.img {
+    margin: 18px;
+    border-radius: 10px;
+
+
+}
+
+.learning {
+    margin-left: 18px;
+    background-color: #f2cb56;
+    display: inline-block;
+    padding-top: 6px;
+    padding-right: 15px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 80%;
+}
+
+
+
+.paragrafo {
+    margin-left: 18px;
+    font-weight: 600;
+}
+
+.h1 {
+    margin-left: 18px;
+    color: #f6d050
+}
+
+.h2 {
+    margin-left: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    color: gray
+}
+
+.container {
+    display: flex;
+}
+
+.avatar {
+
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 28px;
+    height: 28px;
+
+}
+
+.greg {
+    margin-left: 10px;
+    margin-top: 7px;
+    font-weight: bold;
+    font-size: 12px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
