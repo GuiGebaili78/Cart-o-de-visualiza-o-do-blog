@@ -32,10 +32,7 @@
     margin-left: 18px;
     background-color: #f2cb56;
     display: inline-block;
-    padding-top: 6px;
-    padding-right: 15px;
-    padding-bottom: 6px;
-    padding-left: 15px;
+    padding: 6px 15px;
     border-radius: 5px;
     font-weight: bold;
     font-size: 80%;
